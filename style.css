@@ -1,0 +1,212 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  .Box-nav {
+    width: 100%;
+    height: 9vh;
+    background-color: #696969;
+    
+  }
+  
+  .Cont-TitlMen {
+    width: 80%;
+    height: 9vh;
+    position: relative;
+    left: 80px;
+  }
+  
+  .Title {
+    font-size: 2.3em;
+    position: absolute;
+    bottom: 0px;
+    font-family: 'Permanent Marker', cursive;
+    letter-spacing: 0.06em;
+    color: #f73a06;
+    text-shadow: 1px 1px 1px black;
+  }
+  
+  .Menu {
+    float: right;
+    margin-top: 14px;
+  }
+  
+  .item {
+    display: inline-block;
+    margin-left: 12px;
+    font-size: 1.2em;
+    font-family: 'Piedra', cursive;
+    letter-spacing: 0.04em;
+    color: #f73a06;
+    text-shadow: 1px 1px 1px black;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #f73a06;
+    cursor: pointer;
+  }
+  
+  #about {
+    width: 100%;
+    height: 60vh;
+    text-align: center;
+  }
+  
+  .TitleTwo, .TitleTree {
+    font-size: 2.3em;
+    font-family: 'Permanent Marker', cursive;
+    letter-spacing: 0.06em;
+    color: #f73a06;
+    text-shadow: 1px 1px 1px black;
+    margin-top: 6px;
+  }
+  
+  .box-textphoto {
+    width: 100%;
+    height: 38vh;
+    margin-top: 30px;
+  }
+  
+  .Text {
+    width: 38vw;
+    height: 15vh;
+    text-align: justify;
+    display: inline-block;
+  }
+  
+  .Paragraph {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 0.76em;
+    letter-spacing: 0.05em;
+  }
+  
+  .emptybox {
+    width: 4vw;
+    display: inline-block;
+  }
+  
+  .Photo {
+    width: 38vw;
+    height: 22vh;
+    display: inline-block;
+  }
+  
+  .picture {
+    width: 90%;
+    border-radius: 4px;
+    box-shadow: 2px 2px 2px black;
+  }
+  
+  #skills {
+    width: 100%;
+    height: 60vh;
+    text-align: center;
+  }
+  
+  .icons {
+    width: 100%;
+    height: 23vh;
+    margin-top: 30px;
+    
+  }
+  
+  .List {
+    width: 100%;
+    height: 18vh;
+    margin-top: 90px;
+  }
+  
+  .ItemHt {
+    color: #f87a03;
+    font-size: 1.8em;
+    text-shadow: 1px 1px 1px black;
+    letter-spacing: 0.03em;
+    display: inline-block;
+  }
+  
+  .ItemCs {
+    color: #036df8;
+    font-size: 1.8em;
+    margin-left: 8px;
+    text-shadow: 1px 1px 1px black;
+    letter-spacing: 0.01em;
+    display: inline-block;
+  }
+  
+  .ItemJs {
+    color: #f8f403;
+    font-size: 1.8em;
+    margin-left: 8px;
+    text-shadow: 1px 1px 1px black;
+    letter-spacing: 0.02em;
+    display: inline-block;
+  }
+  
+  .ItemRe {
+    color: #03bff8;
+    font-size: 1.8em;
+    margin-left: 8px;
+    text-shadow: 1px 1px 1px black;
+    letter-spacing: 0.02em;
+    display: inline-block;
+  }
+  
+  #end {
+    width: 100%;
+    height: 12vh;
+    background-color: #696969;
+    text-align: center;
+  }
+  
+  .Face {
+    color: #0c0fc9;
+    font-size: 1.3em;
+    font-weight: bolder;
+    letter-spacing: 0.01em;
+    display: inline-block;
+    padding: 10px;
+  }
+  
+  .Lfa {
+    color: #FFFFFF;
+  }
+  
+  .Lin {
+    color: #181961;
+    font-size: 1.3em;
+    font-weight: bold;
+    letter-spacing: 0.02em;
+    display: inline-block;
+    padding: 10px;
+  }
+  
+  .Lked {
+    color: #181961;
+  }
+  
+  .Git {
+    font-size: 1.3em;
+    font-weight: bold;
+    letter-spacing: 0.02em;
+    display: inline-block;
+    padding: 10px;
+  }
+  
+  .Lgit {
+    color: black;
+  }
+  
+  .finaltext {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 0.76em;
+    letter-spacing: 0.06em;
+    color: #f73a06;
+    text-shadow: 1px 1px 1px black;
+  }
