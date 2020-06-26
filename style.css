@@ -19,7 +19,7 @@
     width: 80%;
     height: 9vh;
     position: relative;
-    left: 80px;
+    left: 118px;
   }
   
   .Title {
@@ -65,13 +65,13 @@
     letter-spacing: 0.06em;
     color: #f73a06;
     text-shadow: 1px 1px 1px black;
-    margin-top: 6px;
+    margin-top: 60px;
   }
   
   .box-textphoto {
     width: 100%;
     height: 38vh;
-    margin-top: 30px;
+    margin-top: 50px;
   }
   
   .Text {
@@ -83,7 +83,7 @@
   
   .Paragraph {
     font-family: 'Permanent Marker', cursive;
-    font-size: 0.76em;
+    font-size: 1.08em;
     letter-spacing: 0.05em;
   }
   
@@ -129,33 +129,34 @@
     text-shadow: 1px 1px 1px black;
     letter-spacing: 0.03em;
     display: inline-block;
+    padding: 30px;
   }
   
   .ItemCs {
     color: #036df8;
     font-size: 1.8em;
-    margin-left: 8px;
     text-shadow: 1px 1px 1px black;
     letter-spacing: 0.01em;
     display: inline-block;
+    padding: 30px;
   }
   
   .ItemJs {
     color: #f8f403;
     font-size: 1.8em;
-    margin-left: 8px;
     text-shadow: 1px 1px 1px black;
     letter-spacing: 0.02em;
     display: inline-block;
+    padding: 30px;
   }
   
   .ItemRe {
     color: #03bff8;
     font-size: 1.8em;
-    margin-left: 8px;
     text-shadow: 1px 1px 1px black;
     letter-spacing: 0.02em;
     display: inline-block;
+    padding: 30px;
   }
   
   #end {
@@ -171,7 +172,7 @@
     font-weight: bolder;
     letter-spacing: 0.01em;
     display: inline-block;
-    padding: 10px;
+    padding: 15px;
   }
   
   .Lfa {
@@ -184,7 +185,7 @@
     font-weight: bold;
     letter-spacing: 0.02em;
     display: inline-block;
-    padding: 10px;
+    padding: 15px;
   }
   
   .Lked {
@@ -196,7 +197,7 @@
     font-weight: bold;
     letter-spacing: 0.02em;
     display: inline-block;
-    padding: 10px;
+    padding: 15px;
   }
   
   .Lgit {
