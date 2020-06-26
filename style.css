@@ -25,7 +25,7 @@
   .Title {
     font-size: 2.3em;
     position: absolute;
-    bottom: 0px;
+    bottom: 5px;
     font-family: 'Permanent Marker', cursive;
     letter-spacing: 0.06em;
     color: #f73a06;
@@ -34,7 +34,7 @@
   
   .Menu {
     float: right;
-    margin-top: 14px;
+    margin-top: 18px;
   }
   
   .item {
